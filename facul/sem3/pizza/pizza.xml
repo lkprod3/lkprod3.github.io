@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pizzaria>
+	<produto>
+		<imagem>img/catupiry.jpg</imagem>
+		<sabor> Catupiry </sabor>
+		<ingredientes>Queijo mussarela e requeijão Catupiry®</ingredientes>
+		<preco> 36,90 </preco>
+	</produto>
+	<produto>
+		<imagem>img/pepperoni.jpg</imagem>
+		<sabor> Pepperoni </sabor>
+		<ingredientes>Queijo mussarela e pepperoni fatiado</ingredientes>
+		<preco> 36,90 </preco>
+	</produto>
+	<produto>
+		<imagem>img/4queijos.jpg</imagem>
+		<sabor> Quatro Queijos </sabor>
+		<ingredientes>Mussarela, provolone, catupiry e parmesão</ingredientes>
+		<preco> 36,90 </preco>
+	</produto>
+	<produto>
+		<imagem>img/cheddar.jpg</imagem>
+		<sabor> Calabresa c/ Cheddar </sabor>
+		<ingredientes>Mussarela, calabresa fatiada e cheddar</ingredientes>
+		<preco> 45,90 </preco>
+	</produto>
+	<produto>
+		<imagem>img/queijo.jpg</imagem>
+		<sabor> Mussarela </sabor>
+		<ingredientes>Queijo mussarela e  tomate fatiado</ingredientes>
+		<preco> 36,90 </preco>
+	</produto>
+</pizzaria>
