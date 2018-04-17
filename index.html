@@ -13,46 +13,58 @@
 		background-color:black;
 		color:white;
 	}
-	.jazz {
+	.jazz, .git, .calc, .pizza {
 		padding:10px;
 		border-radius:5px;
-		background-color:#686B62;
 		color:white;
 		font-size:30px;
 		font-weight:bold;
 		text-decoration:none;
 		display:block;
 		transition:0.4s;
+		margin-top:20px;
+	}
+	.jazz, .git {
+		background-color:#686B62;
+	}
+	.calc, .pizza {
+		width:40%;
+		display:inline-block;
+		background-color:#02AC8F;
+	}
+	.calc {
+		float:left;
+	}
+	.pizza {
+		float:right;
+	}
+	.calc:hover, .pizza:hover {
+		background-color:#01796B;
 	}
 	.jazz:hover {
 		background-color:#ffbf14;
 		color:black;
-	}
-	.git {
-		margin-top:20px;
-		padding:10px;
-		border-radius:5px;
-		background-color:#686B62;
-		color:white;
-		font-size:30px;
-		font-weight:bold;
-		text-decoration:none;
-		display:block;
-		transition:0.4s;
 	}
 	.git:hover {
 		background-color:black;
 		color:white;
 		box-shadow:0 0 2px white;
 	}
+	h3 {
+		margin:1px auto;
+	}
 	</style>
 </head>
 
 <body>
 <h1>Hello!</h1>
-<p>There isn't really anything here (yet).<br>I believe you intended to access:</p><br>
+<p>There isn't really anything here (yet).<br>I believe you intended to access:</p>
 
   <a href="http://lkprod3.github.io/jazz.bs" class="jazz">jazz.bs</a>
-  <a href="http://github.com/lkprod3" class="git">My Github</a>
+  <a href="http://github.com/lkprod3" class="git">My Github</a><br>
+	<h1>Trabalhos</h1>
+	<h3>3° sem:</h3>
+	<div id="facul"><a href="http://lkprod3.github.io/facul/sem3/calc" class="calc">Calc.</a>
+	<a href="http://lkprod3.github.io/facul/sem3/pizza" class="pizza">Pizza</a></div>
 </body>
 </html>
