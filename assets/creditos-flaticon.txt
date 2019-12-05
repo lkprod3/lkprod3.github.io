@@ -1,0 +1,5 @@
+vimeo.svg	->	Freepik
+linkedin.svg	->	Freepik
+behance.svg	->	Freepik
+github.svg	->	Freepik
+soundcloud.svg	->	Freepik
