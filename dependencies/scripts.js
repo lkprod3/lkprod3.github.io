@@ -42,3 +42,7 @@
            $(".selectbar1").css('margin-left', '69%');
         }
     });
+
+      $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+      })
