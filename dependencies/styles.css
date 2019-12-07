@@ -236,7 +236,7 @@ footer {
     background-repeat: no-repeat;
     background-size:cover;
     width:15%;
-    height:400px;
+    height:40vh;
     transition:0.2s;
     border:2px solid #923EAF;
     -webkit-filter: blur(0.5px) brightness(0.8);
