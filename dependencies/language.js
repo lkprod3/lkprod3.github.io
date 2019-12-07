@@ -1,6 +1,10 @@
 var language
 var langfile
 
+if (Cookies.get('language')== null) {
+    var language = 'br';
+    var langfile = 'dependencies/text_br.json';
+}
 if (Cookies.get('language')=='br') {
         var langfile = 'dependencies/text_br.json';
     }
