@@ -50,11 +50,11 @@ $(".menu-1").mouseover(function(){
         if (current_tab == "translation") {
             $(".text-2").removeClass("current-selection")
       $("#translation-projects").hide("slide", { direction: "right"}, 150);
-        $("#design-projects").show("slide", { direction: "left" }, 450);
+        $("#design-projects").delay(100).show("slide", { direction: "left" }, 450);
         } else if (current_tab == "musica") {
             $(".text-3").removeClass("current-selection")
           $("#music-projects").hide("slide", { direction: "right"}, 150);
-          $("#design-projects").show("slide", { direction: "left" }, 450);
+          $("#design-projects").delay(100).show("slide", { direction: "left" }, 450);
         }
         $(".selectbar1").css('margin-left', '0%');
         $(".text-1").addClass("current-selection")
@@ -65,11 +65,11 @@ $(".menu-1").mouseover(function(){
           if (current_tab == "design") {
             $(".text-1").removeClass("current-selection")
         $("#design-projects").hide("slide", { direction: "left"}, 150);
-          $("#translation-projects").show("slide", { direction: "right" }, 450);
+          $("#translation-projects").delay(100).show("slide", { direction: "right" }, 450);
           } else if (current_tab == "musica") {
             $(".text-3").removeClass("current-selection")
             $("#music-projects").hide("slide", { direction: "right"}, 150);
-            $("#translation-projects").show("slide", { direction: "left" }, 450);
+            $("#translation-projects").delay(100).show("slide", { direction: "left" }, 450);
           }
           $(".selectbar1").css('margin-left', '34.5%');
           $(".text-2").addClass("current-selection")
@@ -80,11 +80,11 @@ $(".menu-1").mouseover(function(){
         if (current_tab == "design") {
             $(".text-1").removeClass("current-selection")
             $("#design-projects").hide("slide", { direction: "left"}, 150);
-            $("#music-projects").show("slide", { direction: "right" }, 450);
+            $("#music-projects").delay(100).show("slide", { direction: "right" }, 450);
         } else if (current_tab == "translation") {
             $(".text-2").removeClass("current-selection")
           $("#translation-projects").hide("slide", { direction: "left"}, 150);
-          $("#music-projects").show("slide", { direction: "right" }, 450);
+          $("#music-projects").delay(100).show("slide", { direction: "right" }, 450);
         }
         $(".selectbar1").css('margin-left', '69%');
         $(".text-3").addClass("current-selection")

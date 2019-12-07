@@ -1,0 +1,82 @@
+[
+   {
+       "id": "d1",
+       "cover_img": "/assets/project-covers/d01.jpg",
+       "tooltip":"Jazz After Midnight",
+       "name":"Jazz After Midnight",
+       "date": "10 de junho de 2018",
+       "roles":"Programação, Design de Logo",
+       "desc":"",
+       "scrollable_column_content":""
+   },
+   {
+       "id": "d2",
+       "cover_img": "/assets/project-covers/d02.jpg",
+       "tooltip":"The MJ Game Conspiracy",
+       "name":"The Michael Jackson Video Game Conspiracy",
+       "date": "26 de maio de 2018",
+       "roles":"Diagramação, Ilustrações",
+       "desc":"",
+       "scrollable_column_content":""
+   },
+   {
+       "id": "d3",
+       "cover_img": "/assets/project-covers/d03.jpg",
+       "tooltip":"Contrafluxo",
+       "name":"Contrafluxo",
+       "date":"3 de dezembro de 2018",
+       "roles":"Edição de Vídeo, Áudio, Design de Logo, Design de UI e Programação",
+       "desc":"O Projeto Contrafluxo se tratava de uma série que visava apresentar locais e rotas menos conhecidas de São Paulo, tendo foco em temas específicos a cada episódio.<br><br>O projeto também incluía um aplicativo onde era possível checar e personalizar as rotas apresentadas nos episódios, visualizar atualizações e mais informações sobre a série.<br><br>Sendo um projeto interdisciplinar de universidade, apenas um teaser, um episódio piloto e um protótipo do aplicativo foram concluídos.",
+       "scrollable_column_content":""
+   },
+   {
+    "id": "d4",
+    "cover_img": "/assets/project-covers/d04.jpg",
+    "tooltip":"XOXO",
+    "name":"XOXO",
+    "date":"10 de junho de 2019",
+    "roles":"Edição de Vídeo e Design de UI",
+    "desc":"O Projeto Contrafluxo se tratava de uma série que visava apresentar locais e rotas menos conhecidas de São Paulo, tendo foco em temas específicos a cada episódio.<br><br>O projeto também incluía um aplicativo onde era possível checar e personalizar as rotas apresentadas nos episódios, visualizar atualizações e mais informações sobre a série.<br><br>Sendo um projeto interdisciplinar de universidade, apenas um teaser, um episódio piloto e um protótipo do aplicativo foram concluídos.",
+    "scrollable_column_content":""
+   },
+   {
+    "id": "d5",
+    "cover_img": "/assets/project-covers/d05.jpg",
+    "tooltip":"Ibiúna",
+    "name":"Ibiúna",
+    "date":"3 de dezembro de 2019",
+    "roles":"Edição de Vídeo, Design de UX, Modelagem 3D",
+    "desc":"",
+    "scrollable_column_content":""
+   },
+   {
+       "id": "t1",
+       "cover_img": "/assets/project-covers/t01.jpg",
+       "tooltip":"A Hat in Time",
+       "name": "A Hat in Time",
+       "date": "3 de junho de 2018 (Update com Tradução p/ PC)<br>18 de outubro de 2019 (Switch)",
+       "roles":"Tradução",
+       "desc":"",
+       "scrollable_column_content":""
+   },
+   {
+       "id": "t2",
+       "cover_img": "/assets/project-covers/t02.jpg",
+       "tooltip":"STEINS;GATE<br><span>(Não-oficial)</span>",
+       "name": "STEINS;GATE",
+       "date": "24 de março de 2019",
+       "roles":"Edição de Vídeo, Edição de Imagens e Controle de Qualidade",
+       "desc":"",
+       "scrollable_column_content":""
+   },
+   {
+       "id": "t3",
+       "cover_img": "/assets/project-covers/t03.jpg",
+       "tooltip":"STEINS;GATE 0<br><span>(Não-oficial)</span>",
+       "name": "STEINS;GATE 0",
+       "date": "n/a",
+       "roles":"Edição de Vídeo, Edição de Imagens, Tradução e Controle de Qualidade",
+       "desc":"",
+       "scrollable_column_content":""
+   }
+   ]

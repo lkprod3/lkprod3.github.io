@@ -236,7 +236,7 @@ footer {
     background-repeat: no-repeat;
     background-size:cover;
     width:15%;
-    height:40vh;
+    height:48vh;
     transition:0.2s;
     border:2px solid #923EAF;
     -webkit-filter: blur(0.5px) brightness(0.8);
@@ -248,7 +248,7 @@ footer {
 .project:hover {
     cursor: pointer;
     background-size:cover;
-    width:23%;
+    width:28%;
     box-shadow: 0px 0px 15px #FF00D6;
     border:0.5px solid #FF00D6;
     -webkit-filter: blur(0) brightness(1);
