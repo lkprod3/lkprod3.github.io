@@ -175,16 +175,6 @@ body {
     z-index:1;
 }
 
-#language-selector hr {
-    height: .02rem;
-    margin: 0;
-    margin-top:15px;
-    margin-bottom:15px;
-    background: #923EAF;
-    border-radius: 5px;
-    z-index:1;
-}
-
 .topdivider {
     height: .20rem;
     width: 90%;
@@ -199,8 +189,18 @@ footer {
     width:100%;
     bottom:0;
     margin:0;
-    padding-top:15px;
-    padding-bottom:15px;
+    padding-top:10px;
+    padding-bottom:5px;
+}
+
+#language-selector hr {
+    height: .02rem;
+    margin: 0;
+    margin-top:10px;
+    margin-bottom:5px;
+    background: #923EAF;
+    border-radius: 5px;
+    z-index:1;
 }
 
 .svg-icon {

@@ -7,9 +7,11 @@ if (Cookies.get('language')== null) {
 }
 if (Cookies.get('language')=='br') {
         var langfile = 'dependencies/text_br.json';
+        $("#lang_br").hide()
     }
     if (Cookies.get('language')=='en') {
         var langfile = 'dependencies/text_en.json';
+        $("#lang_en").hide()
     }
 
 $(document).ready(function(){
