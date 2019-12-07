@@ -60,24 +60,24 @@ body {
 }
 
 #main-header h2 {
-    margin-top: 25px;
+    margin-top: 1vh;
 }
 
 #main-header {
-    height: 100px;
+    height: 8vh;
     text-align:center;
 }
 
 .display-font {
     font-family: 'Staatliches', cursive;
-    font-size: 38pt;
+    font-size: 5.1vh;
     transition:0.3s;
 }
 
 .display-font-bigger {
     font-family: 'Staatliches', cursive;
     letter-spacing: 2px;
-    font-size: 50pt;
+    font-size: 6.2vh;
     transition:0.3s;
 }
 
