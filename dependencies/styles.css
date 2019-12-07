@@ -26,6 +26,7 @@
 
 body {
     background-color: #181818;
+    overflow:hidden;
 }
 
 .nodeco {
@@ -43,6 +44,18 @@ body {
     -webkit-text-fill-color: rgba(24, 24, 24, 1); /* Will override color (regardless of order) */
     -webkit-text-stroke-width: 1.5px;
     -webkit-text-stroke-color: #FF00D6;
+    text-shadow: 0px 0px 5px #FF00D6, 0px 0px 30px #FF00D6;
+}
+
+.nodeco-small {
+    text-decoration:none;
+    color:#923EAF;
+    transition:0.2s;
+}
+
+.nodeco-small:hover {
+    text-decoration: none;
+    color:#FF00D6;
     text-shadow: 0px 0px 5px #FF00D6, 0px 0px 30px #FF00D6;
 }
 
@@ -68,6 +81,9 @@ body {
     transition:0.3s;
 }
 
+.nav-link {
+    cursor: pointer;
+}
 
 .body-font {
     font-family: 'Montserrat', sans-serif;
@@ -91,7 +107,7 @@ body {
 
 .bright-pink-outline {
     color: #FF00D6;
-    -webkit-text-fill-color: rgba(24, 24, 24, 1); /* Will override color (regardless of order) */
+    -webkit-text-fill-color: rgba(24, 24, 24, 1);
     -webkit-text-stroke-width: 1.5px;
     -webkit-text-stroke-color: #FF00D6;
 }
@@ -99,7 +115,7 @@ body {
 .dark-purple-outline {
     -webkit-text-stroke: 2px #923EAF;
     color: #923EAF;
-    -webkit-text-fill-color: rgba(24, 24, 24, 1); /* Will override color (regardless of order) */
+    -webkit-text-fill-color: rgba(24, 24, 24, 1);
     -webkit-text-stroke-width: 1.5px;
     -webkit-text-stroke-color: #923EAF;
 }
@@ -107,23 +123,33 @@ body {
 #menu {
     margin-bottom:50px;
 }
+
 #menu .col, .col-sm {
     text-decoration: none;
     -webkit-text-stroke: 2px #923EAF;
     color: rgb(116, 98, 122);
-    -webkit-text-fill-color: rgba(24, 24, 24, 1); /* Will override color (regardless of order) */
+    -webkit-text-fill-color: rgba(24, 24, 24, 1);
     -webkit-text-stroke-width: 1.5px;
     -webkit-text-stroke-color: #923EAF;
 }
 
-#menu .col:hover, .col-sm:hover, col-md:hover {
+#menu .col:hover, .col-sm:hover, .col-md:hover {
     text-decoration: none;
     color:#FF00D6;
-    -webkit-text-fill-color: rgba(24, 24, 24, 1); /* Will override color (regardless of order) */
+    -webkit-text-fill-color: rgba(24, 24, 24, 1);
     -webkit-text-stroke-width: 1.5px;
     -webkit-text-stroke-color: #FF00D6;
     text-shadow: 0px 0px 5px #FF00D6, 0px 0px 30px #FF00D6;
     cursor:pointer;
+}
+
+.current-selection {
+    text-decoration: none;
+    color:#FF00D6;
+    -webkit-text-fill-color: rgba(24, 24, 24, 1);
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: #FF00D6;
+    text-shadow: 0px 0px 5px #FF00D6;
 }
 
 .selectbar1 {
@@ -150,11 +176,11 @@ body {
 }
 
 #language-selector hr {
-    height: .05rem;
+    height: .02rem;
     margin: 0;
-    margin-top:10px;
-    margin-bottom:10px;
-    background: #FF00D6;
+    margin-top:15px;
+    margin-bottom:15px;
+    background: #923EAF;
     border-radius: 5px;
     z-index:1;
 }
@@ -179,7 +205,7 @@ footer {
 
 .svg-icon {
     margin:auto;
-    width:50px;
+    width:45px;
     fill:#923EAF;
     transition:0.3s;
 }
@@ -211,13 +237,12 @@ footer {
     background-size:cover;
     width:15%;
     height:400px;
-    transition:0.1s;
-    border:2px solid #FF00D6;
-    -webkit-filter: blur(1px) brightness(0.8);
-    -moz-filter: blur(1px) brightness(0.8);
-    -o-filter: blur(1px) brightness(0.8);
-    -ms-filter: blur(1px) brightness(0.8);
-    backdrop-filter: blur(1px) brightness(0.8);
+    transition:0.2s;
+    border:2px solid #923EAF;
+    -webkit-filter: blur(0.5px) brightness(0.8);
+    -moz-filter: blur(0.5px) brightness(0.8);
+    -o-filter: blur(0.5px) brightness(0.8);
+    -ms-filter: blur(0.5px) brightness(0.8);
 }
 
 .project:hover {
@@ -225,30 +250,62 @@ footer {
     background-size:cover;
     width:23%;
     box-shadow: 0px 0px 15px #FF00D6;
-    border:0;
+    border:0.5px solid #FF00D6;
     -webkit-filter: blur(0) brightness(1);
     -moz-filter: blur(0) brightness(1);
     -o-filter: blur(0) brightness(1);
     -ms-filter: blur(0) brightness(1);
-    backdrop-filter: blur(0) brightness(1);
 }
 
-.project-1 {
-    background-image: url("/assets/project-covers/01.jpg");
+.project-t1 {
+    background-image: url("/assets/project-covers/t01.jpg");
 }
-
-.project-2 {
-    background-image: url("/assets/project-covers/02.jpg");
+.project-t2 {
+    background-image: url("/assets/project-covers/t02.jpg");
 }
-
+.project-t3 {
+    background-image: url("/assets/project-covers/t03.jpg");
+}
+.project-d1 {
+    background-image: url("/assets/project-covers/d01.jpg");
+}
+.project-d2 {
+    background-image: url("/assets/project-covers/d02.jpg");
+}
+.project-d3{
+    background-image: url("/assets/project-covers/d03.jpg");
+}
+.project-d4{
+    background-image: url("/assets/project-covers/d04.jpg");
+}
+.project-m1 {
+    background-color:red;
+}
+.project-m2 {
+    background-color:purple;
+}
 
 .bs-tooltip-bottom .tooltip-inner {
     background:0;
-    max-width:230px;
+    max-width:240px;
     font-size:30px;
     text-shadow: 0px 0px 3px #FF00D6;
+    line-height:1.0;
+    margin-top:5px;
 }
 
 .bs-tooltip-bottom .tooltip-inner span {
     font-size:20px;
+}
+
+#design-projects, #translation-projects, #music-projects {
+    white-space: nowrap !important;
+}
+
+#translation-projects {
+    display:none;
+}
+
+#music-projects {
+    display:none;
 }

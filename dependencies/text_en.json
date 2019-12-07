@@ -1,9 +1,11 @@
 [
     {
-        "nome": "Nome Temporário",
-        "design": "Design",
+        "nome": "Gabriel Crisostomo",
+        "design": "Design Work",
         "traducao": "Translation",
         "musica": "About",
-        "text_1": "This is a simple example text, its purpose being testing a functionality that is yet to be implemented in the code."
+        "tooltip_project_t2": "STEINS;GATE<br><span>(Unofficial)</span>",
+        "tooltip_project_t3": "STEINS;GATE 0<br><span>(Unofficial)</span>",
+        "about_text": ""
        }
     ]
