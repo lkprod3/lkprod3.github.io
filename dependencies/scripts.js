@@ -90,4 +90,8 @@ $(".menu-1").mouseover(function(){
         $(".text-3").addClass("current-selection")
         current_tab = "musica"
     });
-    
+
+  $(document).on('click', '.back-button', function(){ 
+    $("#everythinghome").show();
+    $("#projectdescriptions").delay(50).hide("slide", { direction: "down"}, 450);
+});

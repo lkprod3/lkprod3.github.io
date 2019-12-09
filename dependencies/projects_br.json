@@ -6,8 +6,8 @@
        "name":"Jazz After Midnight",
        "date": "10 de junho de 2018",
        "roles":"Programação, Design de Logo",
-       "desc":"",
-       "scrollable_column_content":""
+       "desc":"O projeto Jazz After Midnight tinha como objetivo atrair usuários que não têm o Jazz e Blues como estilo musical favorito, mas que se interessam em saber mais a respeito.<br><br>Nele, seria possível encontrar notícias sobre os gêneros musicais, além de sua história e seus principais artistas, com foco especial em três ícones que não só tiveram parte fundamental na construção do gênero musical, mas também foram as maiores influências do próprio site: Miles Davis, Nina Simone e John Coltrane.<br><br><a href='https://lkprod3.github.io/jazz.bs' class='w-100 btn btn-outline-light' role='button'>Clique aqui para acessar o site</a>",
+       "scrollable_column_content":"<div class='h-90 mt-3'><img class='h-50' src='assets/project-content/JAM_01.png'></img><img class='h-50' src='assets/project-content/JAM_02.png'></img></div>"
    },
    {
        "id": "d2",
@@ -16,8 +16,8 @@
        "name":"The Michael Jackson Video Game Conspiracy",
        "date": "26 de maio de 2018",
        "roles":"Diagramação, Ilustrações",
-       "desc":"",
-       "scrollable_column_content":""
+       "desc":"Baseado no conteúdo do <a href='https://testkitchen.huffingtonpost.com/michaeljacksonsonic'>artigo do The Huffington Post de mesmo nome</a>, este artigo trata da relação que Michael Jackson possivelmente teve com os jogos <span class='font-italic'>Sonic the Hedgehog 3</span> e <span class='font-italic'>Sonic & Knuckles</span> e suas trilhas sonoras.<br><br>O objetivo deste projeto era diagramar um artigo já existente.<br><br><a href='https://github.com/lkprod3/lkprod3.github.io/raw/classic/MJConspiracy.pdf' class='w-100 btn btn-outline-light' role='button'>Clique aqui para visualizar o PDF completo<br>(Somente em inglês)</a>",
+       "scrollable_column_content":"<img src='assets/project-content/MJ_01.png'></img><img src='assets/project-content/MJ_02.png'></img><img src='assets/project-content/MJ_03.png'></img><img src='assets/project-content/MJ_04.png'></img><img src='assets/project-content/MJ_05.png'></img>"
    },
    {
        "id": "d3",
@@ -26,8 +26,8 @@
        "name":"Contrafluxo",
        "date":"3 de dezembro de 2018",
        "roles":"Edição de Vídeo, Áudio, Design de Logo, Design de UI e Programação",
-       "desc":"O Projeto Contrafluxo se tratava de uma série que visava apresentar locais e rotas menos conhecidas de São Paulo, tendo foco em temas específicos a cada episódio.<br><br>O projeto também incluía um aplicativo onde era possível checar e personalizar as rotas apresentadas nos episódios, visualizar atualizações e mais informações sobre a série.<br><br>Sendo um projeto interdisciplinar de universidade, apenas um teaser, um episódio piloto e um protótipo do aplicativo foram concluídos.",
-       "scrollable_column_content":""
+       "desc":"O projeto Contrafluxo se tratava de uma série que visava apresentar locais e rotas menos conhecidas de São Paulo, tendo foco em temas específicos a cada episódio.<br><br>Também incluído no projeto estava um aplicativo onde era possível checar e personalizar as rotas apresentadas nos episódios, visualizar atualizações e mais informações sobre a série.<br><br>Sendo um projeto interdisciplinar de universidade, apenas um teaser, um episódio piloto e um protótipo do aplicativo foram concluídos.",
+       "scrollable_column_content":"<div class='embed-responsive embed-responsive-16by9 h-50'><iframe class='embed-responsive-item' src='https://player.vimeo.com/video/377216924?portrait=0' allowfullscreen></iframe></div><div class='embed-responsive embed-responsive-16by9 h-50'><iframe class='embed-responsive-item' src='https://player.vimeo.com/video/377217622?texttrack=pt-BR&portrait=0' allowfullscreen></iframe></div><img src='assets/project-content/CF_01.gif'></img><img src='assets/project-content/CF_02.gif'></img><img src='assets/project-content/CF_03.gif'></img><img src='assets/project-content/CF_04.gif'></img><img src='assets/project-content/CF_05.gif'></img>"
    },
    {
     "id": "d4",
@@ -36,8 +36,8 @@
     "name":"XOXO",
     "date":"10 de junho de 2019",
     "roles":"Edição de Vídeo e Design de UI",
-    "desc":"O Projeto Contrafluxo se tratava de uma série que visava apresentar locais e rotas menos conhecidas de São Paulo, tendo foco em temas específicos a cada episódio.<br><br>O projeto também incluía um aplicativo onde era possível checar e personalizar as rotas apresentadas nos episódios, visualizar atualizações e mais informações sobre a série.<br><br>Sendo um projeto interdisciplinar de universidade, apenas um teaser, um episódio piloto e um protótipo do aplicativo foram concluídos.",
-    "scrollable_column_content":""
+    "desc":"O projeto XOXO tinha como principal função ensinar aos jovens sobre educação sexual de maneira mais amigável e confortável, visto que o tema envolve assuntos emocionais e físicos. Seu intuito era aproximar o público-alvo, jovens, à realidade e demonstrar que é mais que possível explorar esse tema sem pressão e a seu próprio tempo.<br><br>Com isso, o app do projeto consistia de um aplicativo onde seria possível jogar fases onde se aprenderia mais sobre o tema, checar questões comuns relacionadas ao tema e tirar dúvidas específicas por meio de um chatbot.",
+    "scrollable_column_content":"<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://player.vimeo.com/video/377218983?portrait=0' frameborder='0' allowfullscreen></iframe></div>"
    },
    {
     "id": "d5",
@@ -46,18 +46,18 @@
     "name":"Ibiúna",
     "date":"3 de dezembro de 2019",
     "roles":"Edição de Vídeo, Design de UX, Modelagem 3D",
-    "desc":"",
-    "scrollable_column_content":""
+    "desc":"O projeto Ibiúna, tendo as dificuldades da compostagem em mente, nasceu da ideia de ajudar quem procura melhorar sua relação com o meio ambiente.<br><br>Pensando na necessidade de um incentivo à prática da compostagem, o foco do projeto foi elaborar uma composteira doméstica, funcional e tecnológica, onde, com o auxílio do aplicativo, o usuário pode facilitar a manutenção de uma composteira em sua casa, seu restaurante, e outros locais, podendo usufruir desde o entendimento de como funciona uma composteira até o gerenciamento em tempo real do que está acontecendo dentro dela.",
+    "scrollable_column_content":"<div class='h-100 nooverflow'><div class='embed-responsive embed-responsive-16by9 h-50 mt-2'><iframe src='https://player.vimeo.com/video/377219687?portrait=0' frameborder='0' allowfullscreen></iframe></div><div class='embed-responsive embed-responsive-16by9 h-40 pb-0'><iframe class='pb-0' src='https://sketchfab.com/models/7bd5f8b1319f4c6484614aa913b2bb10/embed?camera=0' frameborder='0' allow='autoplay; fullscreen; vr' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div></div>"
    },
    {
        "id": "t1",
        "cover_img": "/assets/project-covers/t01.jpg",
        "tooltip":"A Hat in Time",
        "name": "A Hat in Time",
-       "date": "3 de junho de 2018 (Update com Tradução p/ PC)<br>18 de outubro de 2019 (Switch)",
+       "date": "<br>3 de junho de 2018 (Atualização para versão de PC)<br>18 de outubro de 2019 (Nintendo Switch)",
        "roles":"Tradução",
-       "desc":"",
-       "scrollable_column_content":""
+       "desc":"Tradução originalmente não-oficial do jogo <span class='font-italic'>A Hat in Time</span> da qual fiz parte, sendo mais tarde usada oficialmente na versão de PC por meio de um update e na versão de Nintendo Switch.<br><br><iframe src='https://store.steampowered.com/widget/253230/' frameborder='0' width='100%' height='190'></iframe><a href='https://www.nintendo.com/games/detail/a-hat-in-time-switch/' class='w-100 btn btn-outline-light' role='button'>Ver o jogo no Nintendo eShop</a>",
+       "scrollable_column_content":"<img src='assets/project-content/AHIT_01.jpg'></img><img src='assets/project-content/AHIT_02.jpg'></img><img src='assets/project-content/AHIT_03.jpg'></img><img src='assets/project-content/AHIT_04.jpg'></img>"
    },
    {
        "id": "t2",
@@ -65,9 +65,9 @@
        "tooltip":"STEINS;GATE<br><span>(Não-oficial)</span>",
        "name": "STEINS;GATE",
        "date": "24 de março de 2019",
-       "roles":"Edição de Vídeo, Edição de Imagens e Controle de Qualidade",
-       "desc":"",
-       "scrollable_column_content":""
+       "roles":"Edição de Vídeo, Edição de Imagens, Legendagem e Controle de Qualidade",
+       "desc":"Projeto não-oficial de tradução do jogo <span class='font-italic'>STEINS;GATE</span>, lançado pela VNX+.<br>Uma cópia original do jogo é necessária para se usar esta tradução.",
+       "scrollable_column_content":"<img src='/assets/project-content/SG_01.png'></img><img src='assets/project-content/SG_02.png'></img><img src='assets/project-content/SG_03.png'></img><img src='assets/project-content/SG_04.png'></img><img src='assets/project-content/SG_05.png'></img>"
    },
    {
        "id": "t3",
@@ -75,8 +75,8 @@
        "tooltip":"STEINS;GATE 0<br><span>(Não-oficial)</span>",
        "name": "STEINS;GATE 0",
        "date": "n/a",
-       "roles":"Edição de Vídeo, Edição de Imagens, Tradução e Controle de Qualidade",
-       "desc":"",
-       "scrollable_column_content":""
+       "roles":"Edição de Vídeo, Edição de Imagens, Tradução, Legendagem e Controle de Qualidade",
+       "desc":"Projeto não-oficial de tradução do jogo <span class='font-italic'>STEINS;GATE 0</span>, a ser lançado pela VNX+.<br>Uma cópia original do jogo será necessária para se usar esta tradução.",
+       "scrollable_column_content":"<img src='assets/project-content/SG0_01.png'></img><img src='assets/project-content/SG0_02.png'></img><img src='assets/project-content/SG0_03.png'></img>"
    }
    ]
