@@ -223,7 +223,7 @@ footer {
     -ms-filter: blur(0.5px) brightness(0.8);
 }
 
-.project:hover {
+.project:hover, .project:active, .project.activated {
     cursor: pointer;
     background-size:cover;
     width:28%;

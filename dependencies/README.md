@@ -1,4 +1,5 @@
 Copyright 2018 The Staatliches Authors (https://github.com/googlefonts/staatliches);
+
 Copyright 2011 The Montserrat Project Authors (https://github.com/JulietaUla/Montserrat)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.

@@ -91,6 +91,7 @@ $(".menu-1").mouseover(function(){
         current_tab = "musica"
     });
 
+    
   $(document).on('click', '.back-button', function(){ 
     $("#everythinghome").show();
     $("#projectdescriptions").delay(50).hide("slide", { direction: "down"}, 450);
