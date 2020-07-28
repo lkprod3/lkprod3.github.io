@@ -1,4 +1,54 @@
 [
+    {
+        "id": "d6",
+        "cover_img": "/assets/project-covers/d06.jpg",
+        "tooltip": "Video Reel 2020",
+        "name": "Video Reel 2020",
+        "date": "July 28th,  2020",
+        "roles": "Production",
+        "desc": "Video Reel done in 2020 showing off design and motion graphic projects I've done.<br><br>The project involving content from the <span class='font-italic'>Persona</span> series in unofficial, and all imagery and assets belong solely to ATLUS and SEGA. That project in particular was made and included in this reel with basis on fair use.<br><br>Music: 'Road Trip', by Slynk",
+        "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://player.vimeo.com/video/442247835?portrait=0' frameborder='0' allowfullscreen></iframe></div>"
+    },
+    {
+     "id": "d5",
+     "cover_img": "/assets/project-covers/d05.jpg",
+     "tooltip":"Ibiúna",
+     "name":"Ibiúna",
+     "date":"December 3rd, 2019",
+     "roles":"Video Editing, UX Design, 3D Modeling",
+     "desc":"Project Ibiúna, keeping the troubles of composting in mind, was born from the idea of helping those who want to strengthen their bond with the environment.<br><br>As many need an incentive to even think of composting, the project's focus became that of creating a domestic composter, functional and technological, where, through the mobile app's help, the user can have an easier time managing a composter in their home, their restaurant, and other places, being able to make use of things ranging from understanding how a composter works to real time updates on what's happening inside it.",
+     "scrollable_column_content":"<div class='h-100 nooverflow'><div class='embed-responsive embed-responsive-16by9 h-50 mt-2'><iframe src='https://player.vimeo.com/video/377219687?portrait=0' frameborder='0' allowfullscreen></iframe></div><div class='embed-responsive embed-responsive-16by9 h-40 pb-0'><iframe class='pb-0' src='https://sketchfab.com/models/7bd5f8b1319f4c6484614aa913b2bb10/embed?camera=0' frameborder='0' allow='autoplay; fullscreen; vr' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div></div>"
+    },
+    {
+     "id": "d4",
+     "cover_img": "/assets/project-covers/d04.jpg",
+     "tooltip":"XOXO",
+     "name":"XOXO",
+     "date":"June 10th, 2019",
+     "roles":"Video Editing and UI Design",
+     "desc":"Project XOXO had as its main objective lecturing teens on sexual education in a much more friendly and comfortable way, as the theme involves many emotional, psychological and physical themes. Its intent was to close the gap between the target audience (teens) and reality, and demonstrate that it is very much possible to talk about this theme without any pressure and at each person's own pace.<br><br>Thus, the project's app consisted of playable levels where one could learn more about the theme, check common questions related to the theme and ask about other specific matters via a chatbot.",
+     "scrollable_column_content":"<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://player.vimeo.com/video/377218983?portrait=0' frameborder='0' allowfullscreen></iframe></div>"
+    },
+    {
+        "id": "d3",
+        "cover_img": "/assets/project-covers/d03.jpg",
+        "tooltip":"Contrafluxo",
+        "name":"Contrafluxo",
+        "date":"December 3rd, 2018",
+        "roles":"Audio and Video Editing, Logo Design, UI Design and Programming, Translation/Subtitling",
+        "desc":"The Contrafluxo project consisted of a series where places and routes less known from the city of São Paulo, Brazil would be shown, with each episode focusing on specific themes.<br><br>The project also featured a companion app where one could check and customize the routes shown in the episodes, track updates and see more information about the series itself.<br><br>As it was solely an interdisciplinary project for university, only a series teaser, a pilot episode and a prototype of the app were finished and presented.",
+        "scrollable_column_content":"<div class='embed-responsive embed-responsive-16by9 h-50'><iframe class='embed-responsive-item' src='https://player.vimeo.com/video/377216924?portrait=0' allowfullscreen></iframe></div><div class='embed-responsive embed-responsive-16by9 h-50'><iframe class='embed-responsive-item' src='https://player.vimeo.com/video/377217622?texttrack=en&portrait=0' allowfullscreen></iframe></div><img src='assets/project-content/CF_01.gif'></img><img src='assets/project-content/CF_02.gif'></img><img src='assets/project-content/CF_03.gif'></img><img src='assets/project-content/CF_04.gif'></img><img src='assets/project-content/CF_05.gif'></img>"
+    },
+    {
+        "id": "d2",
+        "cover_img": "/assets/project-covers/d02.jpg",
+        "tooltip":"The MJ Game Conspiracy",
+        "name":"The Michael Jackson Video Game Conspiracy",
+        "date": "May 26th, 2018",
+        "roles":"Diagramming, Ilustrations",
+        "desc":"Based on the content from <a href='https://testkitchen.huffingtonpost.com/michaeljacksonsonic'>The Huffington Post's article of the same name</a>, this article talks about what relation Michael Jackson possibly had to the video games <span class='font-italic'>Sonic the Hedgehog 3</span> and <span class='font-italic'>Sonic & Knuckles</span> and their soundtracks.<br><br>The point of this project was to create a magazine-like article from an existing news report.<br><br><a href='https://github.com/lkprod3/lkprod3.github.io/raw/classic/MJConspiracy.pdf' class='w-100 btn btn-outline-light' role='button'>Click here to see the full article PDF</a>",
+        "scrollable_column_content":"<img src='assets/project-content/MJ_01.png'></img><img src='assets/project-content/MJ_02.png'></img><img src='assets/project-content/MJ_03.png'></img><img src='assets/project-content/MJ_04.png'></img><img src='assets/project-content/MJ_05.png'></img>"
+    },
    {
        "id": "d1",
        "cover_img": "/assets/project-covers/d01.jpg",
@@ -8,46 +58,6 @@
        "roles":"Programming, Logo Design",
        "desc":"Jazz After Midnight was a project that had as its main objective attract people who, despite not having Jazz and Blues as their favorite music genres, still have some sort of interest in learning more about it. <br><br>Through the project's website, one would be able to find news about those said genres, along with its history and their most prominent artists, with special focus on three important figures who not only had an important role in the making of those genres, but also were major influences for the site itself: Miles Davis, Nina Simone and John Coltrane.<br><br><a href='https://lkprod3.github.io/jazz.bs' class='w-100 btn btn-outline-light' role='button'>Click here to check the website<br>(Portuguese only)</a>",
        "scrollable_column_content":"<div class='h-90 mt-3'><img class='h-50' src='assets/project-content/JAM_01.png'></img><img class='h-50' src='assets/project-content/JAM_02.png'></img></div>"
-   },
-   {
-       "id": "d2",
-       "cover_img": "/assets/project-covers/d02.jpg",
-       "tooltip":"The MJ Game Conspiracy",
-       "name":"The Michael Jackson Video Game Conspiracy",
-       "date": "May 26th, 2018",
-       "roles":"Diagramming, Ilustrations",
-       "desc":"Based on the content from <a href='https://testkitchen.huffingtonpost.com/michaeljacksonsonic'>The Huffington Post's article of the same name</a>, this article talks about what relation Michael Jackson possibly had to the video games <span class='font-italic'>Sonic the Hedgehog 3</span> and <span class='font-italic'>Sonic & Knuckles</span> and their soundtracks.<br><br>The point of this project was to create a magazine-like article from an existing news report.<br><br><a href='https://github.com/lkprod3/lkprod3.github.io/raw/classic/MJConspiracy.pdf' class='w-100 btn btn-outline-light' role='button'>Click here to see the full article PDF</a>",
-       "scrollable_column_content":"<img src='assets/project-content/MJ_01.png'></img><img src='assets/project-content/MJ_02.png'></img><img src='assets/project-content/MJ_03.png'></img><img src='assets/project-content/MJ_04.png'></img><img src='assets/project-content/MJ_05.png'></img>"
-   },
-   {
-       "id": "d3",
-       "cover_img": "/assets/project-covers/d03.jpg",
-       "tooltip":"Contrafluxo",
-       "name":"Contrafluxo",
-       "date":"December 3rd, 2018",
-       "roles":"Audio and Video Editing, Logo Design, UI Design and Programming, Translation/Subtitling",
-       "desc":"The Contrafluxo project consisted of a series where places and routes less known from the city of São Paulo, Brazil would be shown, with each episode focusing on specific themes.<br><br>The project also featured a companion app where one could check and customize the routes shown in the episodes, track updates and see more information about the series itself.<br><br>As it was solely an interdisciplinary project for university, only a series teaser, a pilot episode and a prototype of the app were finished and presented.",
-       "scrollable_column_content":"<div class='embed-responsive embed-responsive-16by9 h-50'><iframe class='embed-responsive-item' src='https://player.vimeo.com/video/377216924?portrait=0' allowfullscreen></iframe></div><div class='embed-responsive embed-responsive-16by9 h-50'><iframe class='embed-responsive-item' src='https://player.vimeo.com/video/377217622?texttrack=en&portrait=0' allowfullscreen></iframe></div><img src='assets/project-content/CF_01.gif'></img><img src='assets/project-content/CF_02.gif'></img><img src='assets/project-content/CF_03.gif'></img><img src='assets/project-content/CF_04.gif'></img><img src='assets/project-content/CF_05.gif'></img>"
-   },
-   {
-    "id": "d4",
-    "cover_img": "/assets/project-covers/d04.jpg",
-    "tooltip":"XOXO",
-    "name":"XOXO",
-    "date":"June 10th, 2019",
-    "roles":"Video Editing and UI Design",
-    "desc":"Project XOXO had as its main objective lecturing teens on sexual education in a much more friendly and comfortable way, as the theme involves many emotional, psychological and physical themes. Its intent was to close the gap between the target audience (teens) and reality, and demonstrate that it is very much possible to talk about this theme without any pressure and at each person's own pace.<br><br>Thus, the project's app consisted of playable levels where one could learn more about the theme, check common questions related to the theme and ask about other specific matters via a chatbot.",
-    "scrollable_column_content":"<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://player.vimeo.com/video/377218983?portrait=0' frameborder='0' allowfullscreen></iframe></div>"
-   },
-   {
-    "id": "d5",
-    "cover_img": "/assets/project-covers/d05.jpg",
-    "tooltip":"Ibiúna",
-    "name":"Ibiúna",
-    "date":"December 3rd, 2019",
-    "roles":"Video Editing, UX Design, 3D Modeling",
-    "desc":"Project Ibiúna, keeping the troubles of composting in mind, was born from the idea of helping those who want to strengthen their bond with the environment.<br><br>As many need an incentive to even think of composting, the project's focus became that of creating a domestic composter, functional and technological, where, through the mobile app's help, the user can have an easier time managing a composter in their home, their restaurant, and other places, being able to make use of things ranging from understanding how a composter works to real time updates on what's happening inside it.",
-    "scrollable_column_content":"<div class='h-100 nooverflow'><div class='embed-responsive embed-responsive-16by9 h-50 mt-2'><iframe src='https://player.vimeo.com/video/377219687?portrait=0' frameborder='0' allowfullscreen></iframe></div><div class='embed-responsive embed-responsive-16by9 h-40 pb-0'><iframe class='pb-0' src='https://sketchfab.com/models/7bd5f8b1319f4c6484614aa913b2bb10/embed?camera=0' frameborder='0' allow='autoplay; fullscreen; vr' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div></div>"
    },
    {
        "id": "t1",
