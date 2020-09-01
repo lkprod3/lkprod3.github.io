@@ -52,7 +52,7 @@ $(function menutext() {
              $(texto2).appendTo(".text-2");
              var texto3 = '<span>' + f.sobre + '</span>'
               $(texto3).appendTo(".text-3");
-              var textoAbout = '<p>' + f.about_text + '</p>'
+              var textoAbout = '<div class="project-desc-text-body bright-pink mx-5">' + f.about_text + '</p></div>'
               $(textoAbout).appendTo(".about-page-inner");
         });
     });
