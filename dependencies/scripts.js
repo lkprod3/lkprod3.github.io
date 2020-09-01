@@ -95,6 +95,6 @@ $(".menu-1").mouseover(function(){
   $(document).on('click', '.back-button', function(){ 
     $("#everythinghome").show();
     $("#projectdescriptions").delay(50).hide("slide", { direction: "down"}, 450);
-    $(".about-page-inner").empty();
+    $(".about-page-inner").empty()
     menutext();
 });
