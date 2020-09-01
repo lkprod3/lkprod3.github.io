@@ -44,8 +44,6 @@ $("#lang_br").click(function() {
 $(function menutext() {
     $.getJSON((langfile), function(data) {
         $.each(data, function(i, f) {
-            var textoAbout = '<div class="project-desc-text-body bright-pink mx-5"><p>' + f.about_text + '</p></div>'
-            $(textoAbout).appendTo(".about-page-inner");
             var titletext = '<span>' + f.nome + '</span>'
             $(titletext).appendTo(".title-text")
            var texto1 = '<span>' + f.design + '</span>'
@@ -54,6 +52,8 @@ $(function menutext() {
              $(texto2).appendTo(".text-2");
              var texto3 = '<span>' + f.sobre + '</span>'
               $(texto3).appendTo(".text-3");
+              var textoAbout = '<p>' + f.about_text + '</p>'
+              $(textoAbout).appendTo(".about-page-inner");
         });
     });
 });
