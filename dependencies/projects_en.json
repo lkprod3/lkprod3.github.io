@@ -1,13 +1,23 @@
 [
     {
-        "id": "d6",
-        "cover_img": "/assets/project-covers/d06.jpg",
+        "id": "d7",
+        "cover_img": "/assets/project-covers/d07.jpg",
         "tooltip": "Video Reel 2020",
         "name": "Video Reel 2020",
-        "date": "July 28th,  2020",
+        "date": "July 28th, 2020",
         "roles": "Production",
-        "desc": "Video Reel done in 2020 showing off design and motion graphic projects I've done.<br><br>The project involving content from the <span class='font-italic'>Persona</span> series in unofficial, and all imagery and assets belong solely to ATLUS and SEGA. That project in particular was made and included in this reel with basis on fair use.<br><br>Music: 'Road Trip', by Slynk",
+        "desc": "Video Reel done in 2020 showing off design and motion graphic projects I've done.<br><br>The project involving content from the <span class='font-italic'>Persona</span> series in unofficial, and all imagery and assets belong solely to ATLUS and SEGA. That project in particular was made and included in this reel with basis on fair use.",
         "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://player.vimeo.com/video/442247835?portrait=0' frameborder='0' allowfullscreen></iframe></div>"
+    },
+    {
+        "id": "d6",
+        "cover_img": "/assets/project-covers/d06.jpg",
+        "tooltip": "Persona - All Battle Themes<br><span>(Unofficial)</span>",
+        "name": "Persona - All Battle Themes",
+        "date": "June 5th, 2020",
+        "roles": "Video Editing, Subtitling",
+        "desc": "Unofficial project I produced with basis on fair use, compiling music from the <span class='font-italic'>Persona</span>. The intent of the video was to make tribute and represent the evolution of Design within the series' games, and each part of the video attempts to faithfully represent the visual style of the respective game.<br><br>The transitions, general video editing, and layout design were all done by me while using assets taken from official promotional material from the games. This project was made with no intention of generating profit.",
+        "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://www.youtube.com/embed/7h96WWgB55k' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
     },
     {
      "id": "d5",
@@ -58,16 +68,6 @@
        "roles":"Programming, Logo Design",
        "desc":"Jazz After Midnight was a project that had as its main objective attract people who, despite not having Jazz and Blues as their favorite music genres, still have some sort of interest in learning more about it. <br><br>Through the project's website, one would be able to find news about those said genres, along with its history and their most prominent artists, with special focus on three important figures who not only had an important role in the making of those genres, but also were major influences for the site itself: Miles Davis, Nina Simone and John Coltrane.<br><br><a href='https://lkprod3.github.io/jazz.bs' class='w-100 btn btn-outline-light' role='button'>Click here to check the website<br>(Portuguese only)</a>",
        "scrollable_column_content":"<div class='h-90 mt-3'><img class='h-50' src='assets/project-content/JAM_01.png'></img><img class='h-50' src='assets/project-content/JAM_02.png'></img></div>"
-   },
-   {
-       "id": "t4",
-       "cover_img": "/assets/project-covers/t04.jpg",
-       "tooltip": "Persona - All Battle Themes<br><span>(Unofficial)</span>",
-       "name": "Persona - All Battle Themes",
-       "date": "June 5th, 2020",
-       "roles": "Video Editing, Subtitling",
-       "desc": "Unofficial project I produced with basis on fair use, compiling music from the <span class='font-italic'>Persona</span>. The intent of the video was to make tribute and represent the evolution of Design within the series' games, and each part of the video attempts to faithfully represent the visual style of the respective game.<br><br>The transitions, general video editing, and layout design were all done by me while using assets taken from official promotional material from the games. This project was made with no intention of generating profit.",
-       "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://www.youtube.com/embed/7h96WWgB55k' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
    },
    {
        "id": "t3",

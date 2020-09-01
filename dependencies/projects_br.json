@@ -1,13 +1,23 @@
 [
     {
-        "id": "d6",
-        "cover_img": "/assets/project-covers/d06.jpg",
+        "id": "d7",
+        "cover_img": "/assets/project-covers/d07.jpg",
         "tooltip": "Video Reel 2020",
         "name": "Video Reel 2020",
         "date": "28 de Julho de 2020",
         "roles": "Criação",
-        "desc": "Reel feito em 2020 mostrando projetos de design e motion graphics que produzi.<br><br>O projeto envolvendo conteúdo da série <span class='font-italic'>Persona</span> é não-oficial, e todas as marcas associadas a ela pertencem à ATLUS e SEGA. Tal projeto foi realizado e incluído neste reel tendo em mente o 'fair use'.<br><br>Música: 'Road Trip', de Slynk.",
+        "desc": "Reel feito em 2020 mostrando projetos de design e motion graphics que produzi.<br><br>O projeto envolvendo conteúdo da série <span class='font-italic'>Persona</span> é não-oficial, e todas as marcas associadas a ela pertencem à ATLUS e SEGA. Tal projeto foi realizado e incluído neste reel tendo em mente o 'fair use'",
         "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://player.vimeo.com/video/442247835?portrait=0' frameborder='0' allowfullscreen></iframe></div>"
+    },
+    {
+        "id": "d6",
+        "cover_img": "/assets/project-covers/d06.jpg",
+        "tooltip": "Persona - All Battle Themes<br><span>(Não-oficial)</span>",
+        "name": "Persona - All Battle Themes",
+        "date": "5 de junho de 2020",
+        "roles": "Edição de Vídeo, Legendagem",
+        "desc": "Projeto não-oficial que realizei com base no fair use compilando músicas da série <span class='font-italic'>Persona</span>. A intenção do vídeo foi homenagear e representar a evolução do Design ao longo dos próprios jogos da série, e cada parte do vídeo tem como objetivo representar fielmente o estilo visual de determinado jogo.<br><br>As transições, edição de vídeo de modo geral, legendas, e o design dos layouts foram todos feitos por mim, utilizando elementos tirados de materiais promocionais oficiais dos jogos. Este projeto foi feito sem intenção nenhuma de gerar lucro.",
+        "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://www.youtube.com/embed/7h96WWgB55k' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
     },
     {
      "id": "d5",
@@ -58,16 +68,6 @@
        "roles":"Programação, Design de Logo",
        "desc":"O projeto Jazz After Midnight tinha como objetivo atrair usuários que não têm o Jazz e Blues como estilo musical favorito, mas que se interessam em saber mais a respeito.<br><br>Nele, seria possível encontrar notícias sobre os gêneros musicais, além de sua história e seus principais artistas, com foco especial em três ícones que não só tiveram parte fundamental na construção do gênero musical, mas também foram as maiores influências do próprio site: Miles Davis, Nina Simone e John Coltrane.<br><br><a href='https://lkprod3.github.io/jazz.bs' class='w-100 btn btn-outline-light' role='button'>Clique aqui para acessar o site</a>",
        "scrollable_column_content":"<div class='h-90 mt-3'><img class='h-50' src='assets/project-content/JAM_01.png'></img><img class='h-50' src='assets/project-content/JAM_02.png'></img></div>"
-   },
-   {
-       "id": "t4",
-       "cover_img": "/assets/project-covers/t04.jpg",
-       "tooltip": "Persona - All Battle Themes<br><span>(Não-oficial)</span>",
-       "name": "Persona - All Battle Themes",
-       "date": "5 de junho de 2020",
-       "roles": "Edição de Vídeo, Legendagem",
-       "desc": "Projeto não-oficial que realizei com base no fair use compilando músicas da série <span class='font-italic'>Persona</span>. A intenção do vídeo foi homenagear e representar a evolução do Design ao longo dos próprios jogos da série, e cada parte do vídeo tem como objetivo representar fielmente o estilo visual de determinado jogo.<br><br>As transições, edição de vídeo de modo geral, legendas, e o design dos layouts foram todos feitos por mim, utilizando elementos tirados de materiais promocionais oficiais dos jogos. Este projeto foi feito sem intenção nenhuma de gerar lucro.",
-       "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://www.youtube.com/embed/7h96WWgB55k' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
    },
    {
        "id": "t3",

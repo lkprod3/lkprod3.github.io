@@ -330,6 +330,10 @@ footer {
       overflow:hidden;
   }
 
+  .no-borders {
+      border:0
+  }
+
   .project-desc-content {
       height:100vh;
       overflow-y:scroll;
