@@ -53,10 +53,12 @@ $(function menutext() {
              var texto3 = '<span>' + f.sobre + '</span>'
               $(texto3).appendTo(".text-3");
               var textoAbout = '<div class="project-desc-text bright-pink no-borders">' + f.about_text + '</p></div>'
-              $(textoAbout).appendTo("#about-page-inner");
+              $(textoAbout).appendTo(".about-page-inner");
         });
     });
 });
+
+
 
 $(function projectcard() {
     var d = 0
