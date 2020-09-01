@@ -50,8 +50,10 @@ $(function menutext() {
             $(texto1).appendTo(".text-1");
             var texto2 = '<span>' + f.traducao + '</span>'
              $(texto2).appendTo(".text-2");
-             var texto3 = '<span>' + f.musica + '</span>'
+             var texto3 = '<span>' + f.sobre + '</span>'
               $(texto3).appendTo(".text-3");
+              var textoAbout = '<div class="project-desc-text-body bright-pink mx-5"><p>' + f.about_text + '</p></div>'
+              $(textoAbout).appendTo("#about-page-inner");
         });
     });
 });
