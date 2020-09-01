@@ -52,22 +52,11 @@ $(function menutext() {
              $(texto2).appendTo(".text-2");
              var texto3 = '<span>' + f.sobre + '</span>'
               $(texto3).appendTo(".text-3");
-              var textoAbout = '<div class="project-desc-text bright-pink no-borders">' + f.about_text + '</p></div>'
+              var textoAbout = '<div class="project-desc-text-style bright-pink no-overflow-y">' + f.about_text + '</p></div>'
               $(textoAbout).appendTo(".about-page-inner");
         });
     });
 });
-
-$(document).on('click', '.back-button', function(){ 
-    $(".project-desc-content").empty();
-    $(".project-desc-text").empty();
-    $.getJSON((langfile), function(data) {
-        $.each(data,function(r, s) {
-            var textoAbout = '<div class="project-desc-text bright-pink no-borders">' + s.about_text + '</p></div>'
-            $(".about-page-inner").html(textoAbout)
-        })
-    })
-})
 
 
 $(function projectcard() {

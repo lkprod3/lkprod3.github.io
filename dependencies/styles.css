@@ -330,8 +330,8 @@ footer {
       overflow:hidden;
   }
 
-  .no-borders {
-      border:0
+  .no-overflow-y {
+      overflow-y: hidden;
   }
 
   .project-desc-content {
@@ -395,6 +395,14 @@ footer {
       font-family: 'Montserrat', sans-serif;
       font-size:2.4vh;
       height:100vh;
+  }
+  project-desc-text-style p {
+    font-weight:500;
+}
+  .project-desc-text-style {
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.4vh;
+    height:100vh;
   }
   .smallertext {
       font-weight:100;
