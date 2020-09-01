@@ -11,7 +11,7 @@ $(".menu-1").mouseover(function(){
          else if (current_tab == "translation") {
             $(".selectbar1").css('margin-left', '34.5%');
          }
-         else if (current_tab == "musica") {
+         else if (current_tab == "sobre") {
             $(".selectbar1").css('margin-left', '69%');
          }
      });
@@ -26,7 +26,7 @@ $(".menu-1").mouseover(function(){
         else if (current_tab == "translation") {
            $(".selectbar1").css('margin-left', '34.5%');
         }
-        else if (current_tab == "musica") {
+        else if (current_tab == "sobre") {
            $(".selectbar1").css('margin-left', '69%');
         }
     });
@@ -41,7 +41,7 @@ $(".menu-1").mouseover(function(){
         else if (current_tab == "translation") {
            $(".selectbar1").css('margin-left', '34.5%');
         }
-        else if (current_tab == "musica") {
+        else if (current_tab == "sobre") {
            $(".selectbar1").css('margin-left', '69%');
         }
     });
@@ -51,9 +51,9 @@ $(".menu-1").mouseover(function(){
             $(".text-2").removeClass("current-selection")
       $("#translation-projects").hide("slide", { direction: "right"}, 150);
         $("#design-projects").delay(100).show("slide", { direction: "left" }, 450);
-        } else if (current_tab == "musica") {
+        } else if (current_tab == "sobre") {
             $(".text-3").removeClass("current-selection")
-          $("#music-projects").hide("slide", { direction: "right"}, 150);
+          $("#about-page").hide("slide", { direction: "right"}, 150);
           $("#design-projects").delay(100).show("slide", { direction: "left" }, 450);
         }
         $(".selectbar1").css('margin-left', '0%');
@@ -66,9 +66,9 @@ $(".menu-1").mouseover(function(){
             $(".text-1").removeClass("current-selection")
         $("#design-projects").hide("slide", { direction: "left"}, 150);
           $("#translation-projects").delay(100).show("slide", { direction: "right" }, 450);
-          } else if (current_tab == "musica") {
+          } else if (current_tab == "sobre") {
             $(".text-3").removeClass("current-selection")
-            $("#music-projects").hide("slide", { direction: "right"}, 150);
+            $("#about-page").hide("slide", { direction: "right"}, 150);
             $("#translation-projects").delay(100).show("slide", { direction: "left" }, 450);
           }
           $(".selectbar1").css('margin-left', '34.5%');
@@ -80,15 +80,15 @@ $(".menu-1").mouseover(function(){
         if (current_tab == "design") {
             $(".text-1").removeClass("current-selection")
             $("#design-projects").hide("slide", { direction: "left"}, 150);
-            $("#music-projects").delay(100).show("slide", { direction: "right" }, 450);
+            $("#about-page").delay(100).show("slide", { direction: "right" }, 450);
         } else if (current_tab == "translation") {
             $(".text-2").removeClass("current-selection")
           $("#translation-projects").hide("slide", { direction: "left"}, 150);
-          $("#music-projects").delay(100).show("slide", { direction: "right" }, 450);
+          $("#about-page").delay(100).show("slide", { direction: "right" }, 450);
         }
         $(".selectbar1").css('margin-left', '69%');
         $(".text-3").addClass("current-selection")
-        current_tab = "musica"
+        current_tab = "sobre"
     });
 
     

@@ -60,14 +60,24 @@
        "scrollable_column_content":"<div class='h-90 mt-3'><img class='h-50' src='assets/project-content/JAM_01.png'></img><img class='h-50' src='assets/project-content/JAM_02.png'></img></div>"
    },
    {
-       "id": "t1",
-       "cover_img": "/assets/project-covers/t01.jpg",
-       "tooltip":"A Hat in Time",
-       "name": "A Hat in Time",
-       "date": "<br>3 de junho de 2018 (Atualização para versão de PC)<br>18 de outubro de 2019 (Nintendo Switch)",
-       "roles":"Tradução",
-       "desc":"Tradução originalmente não-oficial do jogo <span class='font-italic'>A Hat in Time</span> da qual fiz parte, sendo mais tarde usada oficialmente na versão de PC por meio de um update e na versão de Nintendo Switch.<br><br><iframe src='https://store.steampowered.com/widget/253230/' frameborder='0' width='100%' height='190'></iframe><a href='https://www.nintendo.com/games/detail/a-hat-in-time-switch/' class='w-100 btn btn-outline-light' role='button'>Ver o jogo no Nintendo eShop</a>",
-       "scrollable_column_content":"<img src='assets/project-content/AHIT_01.jpg'></img><img src='assets/project-content/AHIT_02.jpg'></img><img src='assets/project-content/AHIT_03.jpg'></img><img src='assets/project-content/AHIT_04.jpg'></img>"
+       "id": "t4",
+       "cover_img": "/assets/project-covers/t04.jpg",
+       "tooltip": "Persona - All Battle Themes<br><span>(Não-oficial)</span>",
+       "name": "Persona - All Battle Themes",
+       "date": "5 de junho de 2020",
+       "roles": "Edição de Vídeo",
+       "desc": "Projeto não-oficial que realizei com base no fair use compilando músicas da série <span class='font-italic'>Persona</span>. A intenção do vídeo foi homenagear e representar a evolução do Design ao longo dos próprios jogos da série, e cada parte do vídeo tem como objetivo representar fielmente o estilo visual de determinado jogo.<br><br>As transições, edição de vídeo de modo geral, e o design dos layouts foram todos feitos por mim, utilizando elementos tirados de materiais promocionais oficiais dos jogos. Este projeto foi feito sem intenção nenhuma de gerar lucro.",
+       "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://www.youtube.com/embed/7h96WWgB55k' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
+   },
+   {
+       "id": "t3",
+       "cover_img": "/assets/project-covers/t03.jpg",
+       "tooltip":"STEINS;GATE 0<br><span>(Não-oficial)</span>",
+       "name": "STEINS;GATE 0",
+       "date": "n/a",
+       "roles":"Edição de Vídeo, Edição de Imagens, Tradução, Legendagem e Controle de Qualidade",
+       "desc":"Projeto não-oficial de tradução do jogo <span class='font-italic'>STEINS;GATE 0</span>, a ser lançado pela VNX+.<br>Uma cópia original do jogo será necessária para se usar esta tradução.",
+       "scrollable_column_content":"<img src='assets/project-content/SG0_01.png'></img><img src='assets/project-content/SG0_02.png'></img><img src='assets/project-content/SG0_03.png'></img>"
    },
    {
        "id": "t2",
@@ -80,13 +90,13 @@
        "scrollable_column_content":"<img src='/assets/project-content/SG_01.png'></img><img src='assets/project-content/SG_02.png'></img><img src='assets/project-content/SG_03.png'></img><img src='assets/project-content/SG_04.png'></img><img src='assets/project-content/SG_05.png'></img>"
    },
    {
-       "id": "t3",
-       "cover_img": "/assets/project-covers/t03.jpg",
-       "tooltip":"STEINS;GATE 0<br><span>(Não-oficial)</span>",
-       "name": "STEINS;GATE 0",
-       "date": "n/a",
-       "roles":"Edição de Vídeo, Edição de Imagens, Tradução, Legendagem e Controle de Qualidade",
-       "desc":"Projeto não-oficial de tradução do jogo <span class='font-italic'>STEINS;GATE 0</span>, a ser lançado pela VNX+.<br>Uma cópia original do jogo será necessária para se usar esta tradução.",
-       "scrollable_column_content":"<img src='assets/project-content/SG0_01.png'></img><img src='assets/project-content/SG0_02.png'></img><img src='assets/project-content/SG0_03.png'></img>"
+       "id": "t1",
+       "cover_img": "/assets/project-covers/t01.jpg",
+       "tooltip":"A Hat in Time",
+       "name": "A Hat in Time",
+       "date": "<br>3 de junho de 2018 (Atualização para versão de PC)<br>18 de outubro de 2019 (Nintendo Switch)",
+       "roles":"Tradução",
+       "desc":"Tradução originalmente não-oficial do jogo <span class='font-italic'>A Hat in Time</span> da qual fiz parte, sendo mais tarde usada oficialmente na versão de PC por meio de um update e na versão de Nintendo Switch.<br><br><iframe src='https://store.steampowered.com/widget/253230/' frameborder='0' width='100%' height='190'></iframe><a href='https://www.nintendo.com/games/detail/a-hat-in-time-switch/' class='w-100 btn btn-outline-light' role='button'>Ver o jogo no Nintendo eShop</a>",
+       "scrollable_column_content":"<img src='assets/project-content/AHIT_01.jpg'></img><img src='assets/project-content/AHIT_02.jpg'></img><img src='assets/project-content/AHIT_03.jpg'></img><img src='assets/project-content/AHIT_04.jpg'></img>"
    }
    ]

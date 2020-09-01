@@ -276,7 +276,7 @@ footer {
     font-size:20px;
 }
 
-#design-projects, #translation-projects, #music-projects {
+#design-projects, #translation-projects, #about-page {
     white-space: nowrap !important;
 }
 
@@ -284,7 +284,7 @@ footer {
     display:none;
 }
 
-#music-projects {
+#about-page {
     display:none;
 }
 
