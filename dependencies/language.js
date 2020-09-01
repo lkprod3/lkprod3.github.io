@@ -58,6 +58,16 @@ $(function menutext() {
     });
 });
 
+$(document).on('click', '.back-button', function(){ 
+    $(".project-desc-content").empty();
+    $(".project-desc-text").empty();
+    $.getJSON((langfile), function(data) {
+        $.each(data,function(r, s) {
+            var textoAbout = '<div class="project-desc-text bright-pink no-borders">' + s.about_text + '</p></div>'
+            $(".about-page-inner").html(textoAbout)
+        })
+    })
+})
 
 
 $(function projectcard() {
