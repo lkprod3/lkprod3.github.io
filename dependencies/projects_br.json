@@ -1,12 +1,22 @@
 [
     {
+        "id": "d8",
+        "cover_img": "/assets/project-covers/d08.jpg",
+        "tooltip": "round",
+        "name": "round",
+        "date": "14 de dezembro de 2020",
+        "roles": "Edição de Vídeo",
+        "desc": "Vídeo produzido para demonstrar, exemplificar e explicar o objetivo e funcionamento do projeto Round, que foi criado com o intuito de melhorar a comunicação entre médicos e nutricionistas com a cozinha de hospitais, e assim agilizar e facilitar a preparação de refeições apropriadas para cada paciente, além de diminuir o alto desperdício de alimentos dessa área.",
+        "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://player.vimeo.com/video/490834403?portrait=0' frameborder='0' allowfullscreen></iframe></div>"
+    },
+    {
         "id": "d7",
         "cover_img": "/assets/project-covers/d07.jpg",
         "tooltip": "Video Reel 2020",
         "name": "Video Reel 2020",
-        "date": "28 de Julho de 2020",
+        "date": "28 de julho de 2020",
         "roles": "Criação",
-        "desc": "Reel feito em 2020 mostrando projetos de design e motion graphics que produzi.<br><br>O projeto envolvendo conteúdo da série <span class='font-italic'>Persona</span> é não-oficial, e todas as marcas associadas a ela pertencem à ATLUS e SEGA. Tal projeto foi realizado e incluído neste reel tendo em mente o 'fair use'",
+        "desc": "Reel feito em 2020 mostrando projetos de design e motion graphics que produzi.<br><br>O projeto envolvendo conteúdo da série <span class='font-italic'>Persona</span> é não-oficial, e todas as marcas associadas a ela pertencem à ATLUS e SEGA. Tal projeto foi realizado e incluído neste reel tendo em mente o 'fair use'.",
         "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://player.vimeo.com/video/442247835?portrait=0' frameborder='0' allowfullscreen></iframe></div>"
     },
     {

@@ -1,5 +1,15 @@
 [
     {
+        "id": "d8",
+        "cover_img": "/assets/project-covers/d08.jpg",
+        "tooltip": "round",
+        "name": "round",
+        "date": "December 14th, 2020",
+        "roles": "Video Editing",
+        "desc": "Video made to demonstrate, exemplify and explain the objective and workings of the Round project, created with the goal of improving communication between doctors and nutritionists with the hospital's kitchen, helping with the preparation of appropriate meals for each patient, and diminishing the high amount of food wasted in this area.",
+        "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://player.vimeo.com/video/490834403?portrait=0' frameborder='0' allowfullscreen></iframe></div>"
+    },
+    {
         "id": "d7",
         "cover_img": "/assets/project-covers/d07.jpg",
         "tooltip": "Video Reel 2020",
