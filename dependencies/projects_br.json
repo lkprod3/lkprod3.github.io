@@ -1,5 +1,15 @@
 [
     {
+        "id": "d9",
+        "cover_img": "/assets/project-covers/d09.jpg",
+        "tooltip": "Logos Diversos",
+        "name": "Logotipos Diversos",
+        "date": "2019 ~ 2023",
+        "roles": "Design, Criação de Logotipo, Animação",
+        "desc": "<span class='font-italic font-weight-bold'>Gensokyo Party Vol. 4: DJ Koishi</span> é o título de um álbum de mesmo nome, lançado digitalmente em novembro de 2023. O logotipo foi usado na capa do álbum e foi baseado no design da série <span class='font-italic'>beatmania IIDX</span>.<br><br><span class='font-italic font-weight-bold'>CHAOS;CHILD: The Wrong-sider Memoirs</span> é uma tradução não-oficial (em inglês) de uma light novel de mesmo nome lançada pelo grupo NS2C em novembro de 2023. O logotipo foi usado na capa da tradução e foi baseada em sua versão original, em japonês.<br><br><span class='font-italic font-weight-bold'>stagea</span> foi um projeto parte de um hackathon em maio de 2020. O logo, já finalizado, foi entregue a mim e <span class='font-weight-bold'>somente</span> realizei a animação do logotipo baseada nele, além de uma animação de carregamento baseada no ícone.<br><br><span class='font-italic font-weight-bold'>STEINS;GATE: Holy Day of the Calamitous Birth</span> é uma tradução não-oficial (em inglês) de uma light novel de mesmo nome lançada pelo grupo NS2C em dezembro de 2021. O logotipo foi usado na capa da tradução e foi baseada em sua versão original, em japonês.<br><br><span class='font-italic font-weight-bold'>Mhakna Gramura e a Fada Bell</span> foi um logo finalizado em setembro de 2019 para um cancelado projeto de tradução do jogo de mesmo nome. O logotipo em si foi baseado em sua versão original, em inglês.<br><br><span class='font-italic font-weight-bold'>Converting Minds</span>, criado em meados de julho de 2019, foi idealizado para um grupo independente de desenvolvimento e tradução de jogos.<br><br><a href='https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-4-dj-koishi' class='w-100 btn btn-outline-light' role='button'>Gensokyo Party Vol. 4 DJ Koishi<br></a><br><a href='https://ns2c.github.io' class='w-100 btn btn-outline-light' role='button'>NS2C (The Wrong-sider Memoirs & Holy Day of the Calamitous Birth)<br></a>",
+        "scrollable_column_content": "<img src='assets/project-content/LOGOS_01.png'></img><img src='assets/project-content/LOGOS_02.png'></img><div class='embed-responsive embed-responsive-16by9'><video autoplay muted loop><source src='assets/project-content/LOGOS_04a.mp4' frameborder='0' allowfullscreen></source><img src='assets/project-content/LOGOS_04.jpg' title='Seu navegador não suporta a tag <video>.'></video></div><img src='assets/project-content/LOGOS_03.png'></img><img src='assets/project-content/LOGOS_06.png'></img><img src='assets/project-content/LOGOS_07.png'></img>"
+    },
+    {
         "id": "d8",
         "cover_img": "/assets/project-covers/d08.jpg",
         "tooltip": "round",
@@ -30,24 +40,24 @@
         "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://www.youtube.com/embed/7h96WWgB55k' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
     },
     {
-     "id": "d5",
-     "cover_img": "/assets/project-covers/d05.jpg",
-     "tooltip":"Ibiúna",
-     "name":"Ibiúna",
-     "date":"3 de dezembro de 2019",
-     "roles":"Edição de Vídeo, Design de UX, Modelagem 3D",
-     "desc":"O projeto Ibiúna, tendo as dificuldades da compostagem em mente, nasceu da ideia de ajudar quem procura melhorar sua relação com o meio ambiente.<br><br>Pensando na necessidade de um incentivo à prática da compostagem, o foco do projeto foi elaborar uma composteira doméstica, funcional e tecnológica, onde, com o auxílio do aplicativo, o usuário pode facilitar a manutenção de uma composteira em sua casa, seu restaurante, e outros locais, podendo usufruir desde o entendimento de como funciona uma composteira até o gerenciamento em tempo real do que está acontecendo dentro dela.",
-     "scrollable_column_content":"<div class='h-100 nooverflow'><div class='embed-responsive embed-responsive-16by9 h-50 mt-2'><iframe src='https://player.vimeo.com/video/377219687?portrait=0' frameborder='0' allowfullscreen></iframe></div><div class='embed-responsive embed-responsive-16by9 h-40 pb-0'><iframe class='pb-0' src='https://sketchfab.com/models/7bd5f8b1319f4c6484614aa913b2bb10/embed?camera=0' frameborder='0' allow='autoplay; fullscreen; vr' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div></div>"
+        "id": "d5",
+        "cover_img": "/assets/project-covers/d05.jpg",
+        "tooltip":"Ibiúna",
+        "name":"Ibiúna",
+        "date":"3 de dezembro de 2019",
+        "roles":"Edição de Vídeo, Design de UX, Modelagem 3D",
+        "desc":"O projeto Ibiúna, tendo as dificuldades da compostagem em mente, nasceu da ideia de ajudar quem procura melhorar sua relação com o meio ambiente.<br><br>Pensando na necessidade de um incentivo à prática da compostagem, o foco do projeto foi elaborar uma composteira doméstica, funcional e tecnológica, onde, com o auxílio do aplicativo, o usuário pode facilitar a manutenção de uma composteira em sua casa, seu restaurante, e outros locais, podendo usufruir desde o entendimento de como funciona uma composteira até o gerenciamento em tempo real do que está acontecendo dentro dela.",
+        "scrollable_column_content":"<div class='h-100 nooverflow'><div class='embed-responsive embed-responsive-16by9 h-50 mt-2'><iframe src='https://player.vimeo.com/video/377219687?portrait=0' frameborder='0' allowfullscreen></iframe></div><div class='embed-responsive embed-responsive-16by9 h-40 pb-0'><iframe class='pb-0' src='https://sketchfab.com/models/7bd5f8b1319f4c6484614aa913b2bb10/embed?camera=0' frameborder='0' allow='autoplay; fullscreen; vr' mozallowfullscreen='true' webkitallowfullscreen='true'></iframe></div></div>"
     },
     {
-     "id": "d4",
-     "cover_img": "/assets/project-covers/d04.jpg",
-     "tooltip":"XOXO",
-     "name":"XOXO",
-     "date":"10 de junho de 2019",
-     "roles":"Edição de Vídeo e Design de UI",
-     "desc":"O projeto XOXO tinha como principal função ensinar aos jovens sobre educação sexual de maneira mais amigável e confortável, visto que o tema envolve assuntos emocionais e físicos. Seu intuito era aproximar o público-alvo, jovens, à realidade e demonstrar que é mais que possível explorar esse tema sem pressão e a seu próprio tempo.<br><br>Com isso, o app do projeto consistia de um aplicativo onde seria possível jogar fases onde se aprenderia mais sobre o tema, checar questões comuns relacionadas ao tema e tirar dúvidas específicas por meio de um chatbot.",
-     "scrollable_column_content":"<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://player.vimeo.com/video/377218983?portrait=0' frameborder='0' allowfullscreen></iframe></div>"
+        "id": "d4",
+        "cover_img": "/assets/project-covers/d04.jpg",
+        "tooltip":"XOXO",
+        "name":"XOXO",
+        "date":"10 de junho de 2019",
+        "roles":"Edição de Vídeo e Design de UI",
+        "desc":"O projeto XOXO tinha como principal função ensinar aos jovens sobre educação sexual de maneira mais amigável e confortável, visto que o tema envolve assuntos emocionais e físicos. Seu intuito era aproximar o público-alvo, jovens, à realidade e demonstrar que é mais que possível explorar esse tema sem pressão e a seu próprio tempo.<br><br>Com isso, o app do projeto consistia de um aplicativo onde seria possível jogar fases onde se aprenderia mais sobre o tema, checar questões comuns relacionadas ao tema e tirar dúvidas específicas por meio de um chatbot.",
+        "scrollable_column_content":"<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://player.vimeo.com/video/377218983?portrait=0' frameborder='0' allowfullscreen></iframe></div>"
     },
     {
         "id": "d3",
@@ -78,6 +88,46 @@
        "roles":"Programação, Design de Logo",
        "desc":"O projeto Jazz After Midnight tinha como objetivo atrair usuários que não têm o Jazz e Blues como estilo musical favorito, mas que se interessam em saber mais a respeito.<br><br>Nele, seria possível encontrar notícias sobre os gêneros musicais, além de sua história e seus principais artistas, com foco especial em três ícones que não só tiveram parte fundamental na construção do gênero musical, mas também foram as maiores influências do próprio site: Miles Davis, Nina Simone e John Coltrane.<br><br><a href='https://lkprod3.github.io/jazz.bs' class='w-100 btn btn-outline-light' role='button'>Clique aqui para acessar o site</a>",
        "scrollable_column_content":"<div class='h-90 mt-3'><img class='h-50' src='assets/project-content/JAM_01.png'></img><img class='h-50' src='assets/project-content/JAM_02.png'></img></div>"
+   },
+      {
+       "id": "t7",
+       "cover_img": "/assets/project-covers/t07.jpg",
+       "tooltip":"Axanael<br><span>(Não-oficial)</span>",
+       "name": "Axanael",
+       "date": "n/a",
+       "roles":"Edição de Vídeo, Edição de Imagens, Redesign de Interface",
+       "desc":"Projeto não-oficial de tradução (em inglês) para o jogo <span class='font-italic'>Axanael</span>.<br>Uma cópia original do jogo será necessária para aplicar esta tradução.",
+       "scrollable_column_content":"<img src='assets/project-content/AXN_01.jpg'></img><img src='assets/project-content/AXN_02.jpg'></img><img src='assets/project-content/AXN_03.png'></img>"
+   },
+      {
+       "id": "t6",
+       "cover_img": "/assets/project-covers/t06.jpg",
+       "tooltip":"Light Novels<br><span>(Não-oficial)</span>",
+       "name": "Holy Day of the Calamitous Birth /<br>The Wrong-sider Memoirs",
+       "date": "<br>24 de dezembro de 2021 (Holy Day of the Calamitous Birth)<br>4 de novembro de 2023 (The Wrong-sider Memoirs)",
+       "roles":"Criação de Logo, Edição de Imagens e Escrita",
+       "desc":"Projeto não-oficial de tradução (em inglês) de duas light novels da série Science Adventure — <span class='font-italic'>STEINS;GATE: Holy Day of the Calamitous Birth</span> e <span class='font-italic'>CHAOS;CHILD: The Wrong-Sider Memoirs</span>, ambas lançadas online pelo grupo NS2C.<br>Em ambos os projetos, fui encarregado de criar logotipos em inglês baseados em suas versões japonesas. Em <span class='font-italic'>Holy Day</span>, também escrevi a carta à mão que finaliza a história; em <span class='font-italic'>Memoirs</span>, editei e limpei um número pequeno de imagens para remover o texto em japonês e dar espaço às traduções, incluindo a capa.",
+       "scrollable_column_content":"<div class='d-flex mw-100'><img class='w-75 justify-content-center' src='assets/project-content/TWSM_01.jpg'></img></div><div class='d-flex mw-100'><img class='w-75 justify-content-center' src='assets/project-content/HDCB_01.jpg'></img></div><div class='d-flex mw-100'><img class='w-75 justify-content-center' src='assets/project-content/HDCB_02.jpg'></img></div>"
+   },
+   {
+       "id": "t5",
+       "cover_img": "/assets/project-covers/t05.jpg",
+       "tooltip":"C;H NOAH<br><span>(Não-oficial)</span>",
+       "name": "CHAOS;HEAD NOAH",
+       "date": "3 de fevereiro de 2023",
+       "roles":"Edição de Imagens",
+       "desc":"Projeto não-oficial de atualização para o jogo <span class='font-italic'>CHAOS;HEAD NOAH</span>, lançado pelo Commitee of Zero.<br>Uma cópia original do jogo é necessária para aplicar esta atualização.",
+       "scrollable_column_content":"<img src='assets/project-content/CHN_01.jpg'></img><img src='assets/project-content/CHN_02.jpg'></img><img src='assets/project-content/CHN_04.jpg'></img>"
+   },
+   {
+       "id": "t4",
+       "cover_img": "/assets/project-covers/t04.jpg",
+       "tooltip":"R;N ELITE<br><span>(Não-oficial)</span>",
+       "name": "ROBOTICS;NOTES ELITE",
+       "date": "15 de novembro de 2020",
+       "roles":"Edição de Vídeo e Edição de Imagens",
+       "desc":"Projeto não-oficial de atualização para o jogo <span class='font-italic'>ROBOTICS;NOTES ELITE</span>, lançado pelo Commitee of Zero.<br>Uma cópia original do jogo é necessária para aplicar esta atualização.",
+       "scrollable_column_content":"<img src='assets/project-content/RNE_01.png'></img><img src='assets/project-content/RNE_02.png'></img><img src='assets/project-content/RNE_03.png'></img><img src='assets/project-content/RNE_04.jpg'></img><img src='assets/project-content/RNE_05.png'></img><img src='assets/project-content/RNE_06.jpg'></img>"
    },
    {
        "id": "t3",

@@ -1,5 +1,15 @@
 [
     {
+        "id": "d9",
+        "cover_img": "/assets/project-covers/d09.jpg",
+        "tooltip": "Various Logos",
+        "name": "Various Logos",
+        "date": "2019 - 2023",
+        "roles": "Design, Logo Creation, Motion Graphics",
+        "desc": "<span class='font-italic font-weight-bold'>Gensokyo Party Vol. 4: DJ Koishi</span> is the title to an album of the same name, released digitally in November 2023. The logo was used in the album cover and was based on the <span class='font-italic'>beatmania IIDX</span> series.<br><br><span class='font-italic font-weight-bold'>CHAOS;CHILD: The Wrong-sider Memoirs</span> is an unofficial translation of a light novel of the same name, released by NS2C in November 2023. The logo was used in the first page of the translation release, and was based on its original japanese version.<br><br><span class='font-italic font-weight-bold'>stagea</span> was a project concluded as part of a hackathon, in May 2020. The logo, already finished, was delivered to me and I was <span class='font-weight-bold'>only</span> responsible for the motion graphics based on it, along with an additional loading animation based on its icon.<br><br><span class='font-italic font-weight-bold'>STEINS;GATE: Holy Day of the Calamitous Birth</span> is an unofficial translation of a light novel of the same name, released by NS2C in December 2021. The logo was used in the first page of the translation release, and was based on its original japanese version.<br><br><span class='font-italic font-weight-bold'>Mhakna Gramura e a Fada Bell</span> was a logo finished in September 2019 for a now canceled translation project for <span class='font-italic'>Mhakna Gramura and Fairy Bell</span>. This iteration of the logo was based on its original english version.<br><br><span class='font-italic font-weight-bold'>Converting Minds</span>, finished circa July 2019, was created for an independent game development and translation team.<br><br><a href='https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-4-dj-koishi' class='w-100 btn btn-outline-light' role='button'>Gensokyo Party Vol. 4 DJ Koishi<br></a><br><a href='https://ns2c.github.io' class='w-100 btn btn-outline-light' role='button'>NS2C (The Wrong-sider Memoirs & Holy Day of the Calamitous Birth)<br></a>",
+        "scrollable_column_content": "<img src='assets/project-content/LOGOS_01.png'></img><img src='assets/project-content/LOGOS_02.png'></img><div class='embed-responsive embed-responsive-16by9'><video autoplay muted loop><source src='assets/project-content/LOGOS_04a.mp4' frameborder='0' allowfullscreen></source><img src='assets/project-content/LOGOS_04.jpg' title='Seu navegador não suporta a tag <video>.'></video></div><img src='assets/project-content/LOGOS_03.png'></img><img src='assets/project-content/LOGOS_06.png'></img><img src='assets/project-content/LOGOS_07.png'></img>"
+    },
+    {
         "id": "d8",
         "cover_img": "/assets/project-covers/d08.jpg",
         "tooltip": "round",
@@ -79,6 +89,46 @@
        "desc":"Jazz After Midnight was a project that had as its main objective attract people who, despite not having Jazz and Blues as their favorite music genres, still have some sort of interest in learning more about it. <br><br>Through the project's website, one would be able to find news about those said genres, along with its history and their most prominent artists, with special focus on three important figures who not only had an important role in the making of those genres, but also were major influences for the site itself: Miles Davis, Nina Simone and John Coltrane.<br><br><a href='https://lkprod3.github.io/jazz.bs' class='w-100 btn btn-outline-light' role='button'>Click here to check the website<br>(Portuguese only)</a>",
        "scrollable_column_content":"<div class='h-90 mt-3'><img class='h-50' src='assets/project-content/JAM_01.png'></img><img class='h-50' src='assets/project-content/JAM_02.png'></img></div>"
    },
+   {
+        "id": "t7",
+        "cover_img": "/assets/project-covers/t07.jpg",
+        "tooltip":"Axanael<br><span>(Não-oficial)</span>",
+        "name": "Axanael",
+        "date": "n/a",
+        "roles":"Video Editing, Image Editing, UI Redesign",
+        "desc":"Unofficial translation project for the <span class='font-italic'>Axanael</span> game.<br>A retail copy of the game will be needed to make use of this translation patch.",
+        "scrollable_column_content":"<img src='assets/project-content/AXN_01.jpg'></img><img src='assets/project-content/AXN_02.jpg'></img><img src='assets/project-content/AXN_03.png'></img>"
+    },
+   {
+        "id": "t6",
+        "cover_img": "/assets/project-covers/t06.jpg",
+        "tooltip":"Light Novels<br><span>(Não-oficial)</span>",
+        "name": "Holy Day of the Calamitous Birth /<br>The Wrong-sider Memoirs",
+        "date": "<br>December 24th, 2021 (Holy Day of the Calamitous Birth)<br>November 4th, 2023 (The Wrong-sider Memoirs)",
+        "roles":"Logo Creation, Image Editing and Handwriting",
+        "desc":"Unofficial translation project for a light novel and a side story from the Science Adventure series — <span class='font-italic'>STEINS;GATE: Holy Day of the Calamitous Birth</span> and <span class='font-italic'>CHAOS;CHILD: The Wrong-Sider Memoirs</span>, both released online by NS2C.<br>In both projects, I was in charge of designing english logos for each, based on their original japanese versions. In <span class='font-italic'>Holy Day</span>, I was also responsible for handwriting the letter that closes off the story; in <span class='font-italic'>Memoirs</span>, I also edited and cleaned a small number of images to remove the japanese text and make room for the translations to be added in, cover included.",
+        "scrollable_column_content":"<div class='d-flex mw-100'><img class='w-75 justify-content-center' src='assets/project-content/TWSM_01.jpg'></img></div><div class='d-flex mw-100'><img class='w-75 justify-content-center' src='assets/project-content/HDCB_01.jpg'></img></div><div class='d-flex mw-100'><img class='w-75 justify-content-center' src='assets/project-content/HDCB_02.jpg'></img></div>"
+    },
+    {
+        "id": "t5",
+        "cover_img": "/assets/project-covers/t05.jpg",
+        "tooltip":"C;H NOAH<br><span>(Unofficial)</span>",
+        "name": "CHAOS;HEAD NOAH",
+        "date": "February 3rd, 2023",
+        "roles":"Image Editing",
+        "desc":"Unofficial update patch for the <span class='font-italic'>CHAOS;HEAD NOAH</span> game, released by Commitee of Zero.<br>A retail copy of the game is needed to make use of this translation patch.",
+        "scrollable_column_content":"<img src='assets/project-content/CHN_01.jpg'></img><img src='assets/project-content/CHN_02.jpg'></img><img src='assets/project-content/CHN_04.jpg'></img>"
+    },
+    {
+        "id": "t4",
+        "cover_img": "/assets/project-covers/t04.jpg",
+        "tooltip":"R;N ELITE<br><span>(Unofficial)</span>",
+        "name": "ROBOTICS;NOTES ELITE",
+        "date": "November 15th, 2020",
+        "roles":"Video Editing and Image Editing",
+        "desc":"Unofficial update patch for the <span class='font-italic'>ROBOTICS;NOTES ELITE</span> game, released by Commitee of Zero.<br>A retail copy of the game is needed to make use of this translation patch.",
+        "scrollable_column_content":"<img src='assets/project-content/RNE_01.png'></img><img src='assets/project-content/RNE_02.png'></img><img src='assets/project-content/RNE_03.png'></img><img src='assets/project-content/RNE_04.jpg'></img><img src='assets/project-content/RNE_05.png'></img><img src='assets/project-content/RNE_06.jpg'></img>"
+    },
    {
        "id": "t3",
        "cover_img": "/assets/project-covers/t03.jpg",
