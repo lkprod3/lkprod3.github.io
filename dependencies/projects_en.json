@@ -7,7 +7,7 @@
         "date": "2019 - 2023",
         "roles": "Design, Logo Creation, Motion Graphics",
         "desc": "<span class='font-italic font-weight-bold'>Gensokyo Party Vol. 4: DJ Koishi</span> is the title to an album of the same name, released digitally in November 2023. The logo was used in the album cover and was based on the <span class='font-italic'>beatmania IIDX</span> series.<br><br><span class='font-italic font-weight-bold'>CHAOS;CHILD: The Wrong-sider Memoirs</span> is an unofficial translation of a light novel of the same name, released by NS2C in November 2023. The logo was used in the first page of the translation release, and was based on its original japanese version.<br><br><span class='font-italic font-weight-bold'>stagea</span> was a project concluded as part of a hackathon, in May 2020. The logo, already finished, was delivered to me and I was <span class='font-weight-bold'>only</span> responsible for the motion graphics based on it, along with an additional loading animation based on its icon.<br><br><span class='font-italic font-weight-bold'>STEINS;GATE: Holy Day of the Calamitous Birth</span> is an unofficial translation of a light novel of the same name, released by NS2C in December 2021. The logo was used in the first page of the translation release, and was based on its original japanese version.<br><br><span class='font-italic font-weight-bold'>Mhakna Gramura e a Fada Bell</span> was a logo finished in September 2019 for a now canceled translation project for <span class='font-italic'>Mhakna Gramura and Fairy Bell</span>. This iteration of the logo was based on its original english version.<br><br><span class='font-italic font-weight-bold'>Converting Minds</span>, finished circa July 2019, was created for an independent game development and translation team.<br><br><a href='https://kodamasounds.bandcamp.com/album/gensokyo-party-vol-4-dj-koishi' class='w-100 btn btn-outline-light' role='button'>Gensokyo Party Vol. 4 DJ Koishi<br></a><br><a href='https://ns2c.github.io' class='w-100 btn btn-outline-light' role='button'>NS2C (The Wrong-sider Memoirs & Holy Day of the Calamitous Birth)<br></a>",
-        "scrollable_column_content": "<img src='assets/project-content/LOGOS_01.png'></img><img src='assets/project-content/LOGOS_02.png'></img><div class='embed-responsive embed-responsive-16by9'><video autoplay muted loop><source src='assets/project-content/LOGOS_04a.mp4' frameborder='0' allowfullscreen></source><img src='assets/project-content/LOGOS_04.jpg' title='Seu navegador não suporta a tag <video>.'></video></div><img src='assets/project-content/LOGOS_03.png'></img><img src='assets/project-content/LOGOS_06.png'></img><img src='assets/project-content/LOGOS_07.png'></img>"
+        "scrollable_column_content": "<img src='assets/project-content/LOGOS_01.png'></img><img src='assets/project-content/LOGOS_02.png'></img><div class='embed-responsive embed-responsive-16by9'><video autoplay muted loop><source src='assets/project-content/LOGOS_04a.mp4' frameborder='0' allowfullscreen></source><img src='assets/project-content/LOGOS_04.jpg' title='Your browser does not support the <video> tag.'></video></div><img src='assets/project-content/LOGOS_03.png'></img><img src='assets/project-content/LOGOS_06.png'></img><img src='assets/project-content/LOGOS_07.png'></img>"
     },
     {
         "id": "d8",
@@ -92,7 +92,7 @@
    {
         "id": "t7",
         "cover_img": "/assets/project-covers/t07.jpg",
-        "tooltip":"Axanael<br><span>(Não-oficial)</span>",
+        "tooltip":"Axanael<br><span>(Unofficial)</span>",
         "name": "Axanael",
         "date": "n/a",
         "roles":"Video Editing, Image Editing, UI Redesign",
@@ -102,7 +102,7 @@
    {
         "id": "t6",
         "cover_img": "/assets/project-covers/t06.jpg",
-        "tooltip":"Light Novels<br><span>(Não-oficial)</span>",
+        "tooltip":"Light Novels<br><span>(Unofficial)</span>",
         "name": "Holy Day of the Calamitous Birth /<br>The Wrong-sider Memoirs",
         "date": "<br>December 24th, 2021 (Holy Day of the Calamitous Birth)<br>November 4th, 2023 (The Wrong-sider Memoirs)",
         "roles":"Logo Creation, Image Editing and Handwriting",
