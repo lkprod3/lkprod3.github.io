@@ -37,7 +37,7 @@
         "date": "June 5th, 2020",
         "roles": "Video Editing, Subtitling",
         "desc": "Unofficial project I produced with basis on fair use, compiling music from the <span class='font-italic'>Persona</span>. The intent of the video was to make tribute and represent the evolution of Design within the series' games, and each part of the video attempts to faithfully represent the visual style of the respective game.<br><br>The transitions, general video editing, subtitling, and layout design were all done by me while using assets taken from official promotional material from the games. This project was made with no intention of generating profit.",
-        "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://www.youtube.com/embed/7h96WWgB55k' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
+        "scrollable_column_content": "<div class='embed-responsive embed-responsive-16by9 h-100'><iframe src='https://www.youtube.com/embed/xaOXOLNAdQ4' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe></div>"
     },
     {
      "id": "d5",
@@ -159,4 +159,5 @@
        "desc":"Originally unofficial translation of the <span class='font-italic'>A Hat in Time</span> game that I was part of, being later used officially on the PC version of the game via an update and from the get-go on the Nintendo Switch version.<br><br><iframe src='https://store.steampowered.com/widget/253230/' frameborder='0' width='100%' height='190'></iframe><a href='https://www.nintendo.com/games/detail/a-hat-in-time-switch/' class='w-100 btn btn-outline-light' role='button'>View the game on Nintendo eShop</a>",
        "scrollable_column_content":"<img src='assets/project-content/AHIT_01.jpg'></img><img src='assets/project-content/AHIT_02.jpg'></img><img src='assets/project-content/AHIT_03.jpg'></img><img src='assets/project-content/AHIT_04.jpg'></img>"
    }
+
    ]
